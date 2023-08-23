@@ -6,8 +6,8 @@ cloud.google.com/go/compute/metadata v0.2.3 h1:mg4jlk7mCAj6xXp9UJ4fjI9VUI5rubuGB
 cloud.google.com/go/compute/metadata v0.2.3/go.mod h1:VAV5nSsACxMJvgaAuX6Pk2AawlZn8kiOGuCv6gTkwuA=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/cdvelop/input v0.0.19 h1:v+4/ecVO+UIW/VOfsBvBP7Vl5QracK4QcpYn1ijWM6U=
-github.com/cdvelop/input v0.0.19/go.mod h1:XHj8hpZrByG+SC++khlqWQUW8Ys3Ctx3p1iqojyizNM=
+github.com/cdvelop/input v0.0.21 h1:WvtmgNsEgyWP2ub6nBFqX0ib1crkcoorGB86+ChqClw=
+github.com/cdvelop/input v0.0.21/go.mod h1:2suyjsLqqUMPjNWgxAr9DNY1cWryxKQPSYX60PlOFJY=
 github.com/cdvelop/model v0.0.38 h1:lLZ9I9tYqG/5vVuqRQrrSe3+2yMF9yto92y4b1AUWPs=
 github.com/cdvelop/model v0.0.38/go.mod h1:cYJNxbv1WV/aDgiVPV9VXs8LrbF8+0nU+X+KfSevyzw=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
