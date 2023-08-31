@@ -8,8 +8,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/cdvelop/input v0.0.21 h1:WvtmgNsEgyWP2ub6nBFqX0ib1crkcoorGB86+ChqClw=
 github.com/cdvelop/input v0.0.21/go.mod h1:2suyjsLqqUMPjNWgxAr9DNY1cWryxKQPSYX60PlOFJY=
-github.com/cdvelop/model v0.0.41 h1:oxwWxkd184st0f04F16sTWkug1qzqmvIlm9s6q5PPlY=
-github.com/cdvelop/model v0.0.41/go.mod h1:cYJNxbv1WV/aDgiVPV9VXs8LrbF8+0nU+X+KfSevyzw=
+github.com/cdvelop/model v0.0.42 h1:2RS/6bYxud3GIdK+d5djEqEmwpS9sa10OiWxm3EyEPU=
+github.com/cdvelop/model v0.0.42/go.mod h1:cYJNxbv1WV/aDgiVPV9VXs8LrbF8+0nU+X+KfSevyzw=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
