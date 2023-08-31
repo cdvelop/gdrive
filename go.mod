@@ -6,7 +6,7 @@ require golang.org/x/oauth2 v0.9.0
 
 require (
 	cloud.google.com/go/compute v1.20.1 // indirect
-	github.com/cdvelop/input v0.0.21 // indirect
+	github.com/cdvelop/input v0.0.26 // indirect
 	github.com/cdvelop/model v0.0.42 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
